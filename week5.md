@@ -1,4 +1,4 @@
-#Week 5: Assignment 5
+# Week 5: Assignment 5
 
 1. Stimulation of all the three cone types gives us the color perception – this is known as the tristimulus theory of vision.
 	1. True
