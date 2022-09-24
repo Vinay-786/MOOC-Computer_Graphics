@@ -1,4 +1,4 @@
- #Week 1: Assignment 1
+ # Week 1: Assignment 1
  
 1. What do we do in CG?
 	1. We generate 2D image and display on a screen.
