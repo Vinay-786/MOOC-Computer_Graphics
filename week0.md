@@ -1,29 +1,32 @@
 # Week 0: Assignment 0
 
-*Doubly linked list is required for
-1. accessing the list to the reverse direction.
-2. accessing the list to both the forward and reverse directions.
-3. making the list circular
-4. none of the above
+1. Doubly linked list is required for
+	1. accessing the list to the reverse direction.
+	2. accessing the list to both the forward and reverse directions.
+	3. making the list circular
+	4. none of the above
 
-*Answer: b*
+*Answer: ii*
 
-*Match the following:- 
-I. BFS						A. Stack
-II. Random access 			B. Queue
-III. FIFO 					C. Array
-IV. LIFO 					D. Tree
+2. Match the following
 
-1. I-D, II-B, III-A, IV-C
-2. I-D, II-C, III-B, IV-A
-3. I-A, II-C, III-B, IV-D
-4. I-C, II-D, III-A, IV-B
+|     |     |
+| --- | --- |
+| i.BFS    |   a.Stack  |
+|  ii.Random access   |  b.Queue   |
+|  iii.FIFO   |  c.Array  |
+|  iv.LIFO   |  d.Tree   |
 
-*Answer: 2*
+	1. I-D, II-B, III-A, IV-C
+	2. I-D, II-C, III-B, IV-A
+	3. I-A, II-C, III-B, IV-D
+	4. I-C, II-D, III-A, IV-B
 
-*In case of postfix notation, operators are written after their operands.
-1. True
-2. False
+*Answer: ii*
+
+3. In case of postfix notation, operators are written after their operands.
+	1. True
+	2. False
 
 *Answer: True*
 
@@ -41,29 +44,29 @@ Models can explain the system from different perspectives:
 - A behavioral perspective, where you model the dynamic behavior of the system and how it responds to events
 
 
-*System models are abstract descriptions of systems whose requirements are being analyzed 
-1. True
-2. False
+4. System models are abstract descriptions of systems whose requirements are being analyzed 
+	1. True
+	2. False
 
-*Answer: 1*
+*Answer: i*
 
-*UML is based on
-1. notation
-2. transitions
-3. states
-4. keywords
+5. UML is based on
+	1. notation
+	2. transitions
+	3. states
+	4. keywords
 
-*Answer: 1*
+*Answer: i*
 
-*Which system model is being depicted by the ATM operations shown below?
-1. Structural model
-2. Context model
-3. Behavioral model
-4. Interaction model
+6. Which system model is being depicted by the ATM operations shown below?
+	1. Structural model
+	2. Context model
+	3. Behavioral model
+	4. Interaction model
 
-*Answer: 2*
+*Answer: ii*
 
-*A height balanced binary search tree is known as __________________ tree.
+7. A height balanced binary search tree is known as __________________ tree.
 
 *Answer: AVL*
 
