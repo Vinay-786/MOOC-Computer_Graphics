@@ -1,64 +1,72 @@
-#Week 0: Assignment 0
+# Week 0: Assignment 0
 
-1. Doubly linked list is required for
-	a. accessing the list to the reverse direction.
-	b. accessing the list to both the forward and reverse directions.
-	c. making the list circular
-	d. none of the above
+*Doubly linked list is required for
+1. accessing the list to the reverse direction.
+2. accessing the list to both the forward and reverse directions.
+3. making the list circular
+4. none of the above
+
 *Answer: b*
 
-2. Match the following:- 
-	I. BFS						A. Stack
-	II. Random access 			B. Queue
-	III. FIFO 					C. Array
-	IV. LIFO 					D. Tree
+*Match the following:- 
+I. BFS						A. Stack
+II. Random access 			B. Queue
+III. FIFO 					C. Array
+IV. LIFO 					D. Tree
 
-	a. I-D, II-B, III-A, IV-C
-	b. I-D, II-C, III-B, IV-A
-	c. I-A, II-C, III-B, IV-D
-	d. I-C, II-D, III-A, IV-B
-*Answer: b*
+1. I-D, II-B, III-A, IV-C
+2. I-D, II-C, III-B, IV-A
+3. I-A, II-C, III-B, IV-D
+4. I-C, II-D, III-A, IV-B
 
-3. In case of postfix notation, operators are written after their operands.
-	a. True
-	b. False
-*Answer: a*
+*Answer: 2*
+
+*In case of postfix notation, operators are written after their operands.
+1. True
+2. False
+
+*Answer: True*
 
 ***Read the following and answer the question follows:***  
- System modeling is the process of developing abstract models of a system, with each model presenting a different view or perspective of that system. It is about representing a system using some kind of graphical notation, which is now almost always based on notations in the Unified Modeling Language (UML). Models help the analyst to understand the functionality of the system; they are used to communicate with customers.
+ <p>System modeling is the process of developing abstract models of a system, with each model presenting a different view or perspective of that system. It is about representing a system using some kind of graphical notation, which is now almost always based on notations in the Unified Modeling Language (UML). Models help the analyst to understand the functionality of the system; they are used to communicate with customers.</P>
 
 Models can explain the system from different perspectives:
 
-a) An external perspective, where you model the context or environment of the system.
+- An external perspective, where you model the context or environment of the system.
 
-b) An interaction perspective, where you model the interactions between a system and its environment, or between the components of a system.
+- An interaction perspective, where you model the interactions between a system and its environment, or between the components of a system.
 
-c) A structural perspective, where you model the organization of a system or the structure of the data that is processed by the system.
+- A structural perspective, where you model the organization of a system or the structure of the data that is processed by the system.
 
-d) A behavioral perspective, where you model the dynamic behavior of the system and how it responds to events
+- A behavioral perspective, where you model the dynamic behavior of the system and how it responds to events
 
-4. System models are abstract descriptions of systems whose requirements are being analyzed 
-	a. True
-	b. False
-*Answer: a*
 
-5. UML is based on
-	a. notation
-	b. transitions
-	c. states
-	d. keywords
-*Answer: a*
+*System models are abstract descriptions of systems whose requirements are being analyzed 
+1. True
+2. False
 
-6. Which system model is being depicted by the ATM operations shown below?
-	a. Structural model
-	b. Context model
-	c. Behavioral model
-	d. Interaction model
-*Answer: b*
+*Answer: 1*
 
-7. A height balanced binary search tree is known as __________________ tree.
+*UML is based on
+1. notation
+2. transitions
+3. states
+4. keywords
+
+*Answer: 1*
+
+*Which system model is being depicted by the ATM operations shown below?
+1. Structural model
+2. Context model
+3. Behavioral model
+4. Interaction model
+
+*Answer: 2*
+
+*A height balanced binary search tree is known as __________________ tree.
+
 *Answer: AVL*
 
-8. Build & Fix Model' of SDLC is suitable for programming exercises of ___________ LOC(Line of Code).
+*Build & Fix Model' of SDLC is suitable for programming exercises of ___________ LOC(Line of Code).
 
 *Answer: 100-200*
