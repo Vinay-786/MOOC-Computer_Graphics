@@ -1,4 +1,4 @@
-#Week 7: Assignment 7 
+# Week 7: Assignment 7 
 
 1. The floating-point operation in “Line Scan Conversion” makes the rendering approach computationally expensive.
 	1. True
